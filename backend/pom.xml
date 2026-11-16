@@ -39,7 +39,6 @@
         <dependency>
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-rest-jackson</artifactId>
-            <version>3.40.1.2</version>
         </dependency>
     </dependencies>
 
